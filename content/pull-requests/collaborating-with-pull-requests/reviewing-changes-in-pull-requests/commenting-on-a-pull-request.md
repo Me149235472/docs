@@ -13,14 +13,14 @@ versions:
   fpt: '*'
   ghes: '*'
   ghec: '*'
-topics:
+topics:#422
   - Pull requests
 shortTitle: Comment on a PR
----
+---R.
 ## About pull request comments
-
+#ไอต้าวตัวเล็ก🌹🕸️
 You can comment on a pull request's **Conversation** tab to leave general comments, questions, or props. You can also suggest changes that the author of the pull request can apply directly from your comment.
-
+https://discordstatus.com/#
 You can also comment on specific {% ifversion pull-request-comment-on-file %}files or {% endif %}sections of a file in a pull request's **Files changed** tab in the form of individual line {% ifversion pull-request-comment-on-file %}or file {% endif %}comments, or as part of a pull request review. Adding line {% ifversion pull-request-comment-on-file %}or file {% endif %}comments is a great way to discuss questions about implementation or provide feedback to the author. For more information about pull request reviews, see "[AUTOTITLE](/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)."
 
 For more information on adding line {% ifversion pull-request-comment-on-file %}or file {% endif %}comments to a pull request review, see "[AUTOTITLE](/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)."
